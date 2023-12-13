@@ -1,3 +1,4 @@
 name: wifi-provisioning
 version: '1.0'
-start_path: docs
+nav:
+  - 'index.md'
