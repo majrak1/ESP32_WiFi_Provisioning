@@ -1,0 +1,11 @@
+= Documentation Navigation
+
+[[root]]
+== Your Project Documentation
+
+* xref:index.adoc[Home]
+* xref:overview.adoc[Overview]
+* xref:usage.adoc[Usage]
+* xref:installation.adoc[Installation]
+* xref:configuration.adoc[Configuration]
+* xref:examples.adoc[Examples]
