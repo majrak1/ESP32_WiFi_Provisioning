@@ -1,4 +1,14 @@
 name: wifi-provisioning
+title: wifi-provisioning
 version: '1.0'
+start_page: inline-text-formatting.adoc
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
 nav:
-  - 'index.md'
+  - docs/nav.adoc
+
+
+
+
