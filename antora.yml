@@ -1,7 +1,7 @@
 name: wifi-provisioning
 title: wifi-provisioning
 version: '1.0'
-start_page: inline-text-formatting.adoc
+start_page: docs/nav.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
