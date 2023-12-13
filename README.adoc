@@ -1,4 +1,4 @@
-= Demo Documentation Component B
+= Demo Documentation Component C
 // URLs
 :url-project: https://antora.org
 :url-docs: https://docs.antora.org
@@ -8,7 +8,7 @@
 :url-site-readme: {url-group}/docs-site/blob/master/README.adoc
 :url-opendevise: https://opendevise.com
 
-Component B is an example of a documentation component.
+Component C is an example of a documentation component.
 It is used by the {url-demo-site}[Antora Demo site].
 The playbook and instructions for the Demo site are located in the {url-site-readme}[Demo site playbook project].
 
