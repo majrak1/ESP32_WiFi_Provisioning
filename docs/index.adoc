@@ -1,0 +1,18 @@
+= ESP32 WiFi Provisioning Documentation
+
+== Introduction
+
+This is the documentation for the ESP32 WiFi Provisioning Python app.
+
+== Getting Started
+
+To run the app, execute the following command:
+
+[source,python]
+----
+RRRRRAAAAAAAAAAAAAAAAHHHHH
+----
+
+== Additional Information
+
+For more details, refer to the [GitHub Repository](https://github.com/majrak1/ESP32_WiFi_Provisioning.git).
